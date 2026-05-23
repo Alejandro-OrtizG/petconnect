@@ -1,0 +1,6 @@
+{
+  "name": "PetConnect",
+  "description": "Dashboard de cuidado centralizado para mascotas: ficha técnica, calendario de salud y bitácora de comportamiento.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
